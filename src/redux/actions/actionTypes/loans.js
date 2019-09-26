@@ -1,0 +1,2 @@
+export const CREATE_LOAN = 'CREATE_LOAN';
+export const FAILED_LOAN_CREATION = 'FAILED_LOAN_CREATION';
