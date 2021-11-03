@@ -108,6 +108,6 @@
     "stylelint-webpack-plugin": "^0.10.5",
     "uuid": "^3.3.3",
     "uuidv4": "^5.0.1",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
